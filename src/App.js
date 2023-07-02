@@ -4,7 +4,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 function App() {
-  return <div>Check</div>;
+  return <div>Check App</div>;
 }
 
 export default App;
